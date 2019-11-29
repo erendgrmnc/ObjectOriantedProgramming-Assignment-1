@@ -1,0 +1,20 @@
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.exe.config
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.pdb
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP_ODEV_1._1.Form1.resources
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP_ODEV_1._1.Properties.Resources.resources
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csproj.GenerateResource.cache
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\NDP ODEV 1.1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.pdb
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.exe.config
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\bin\Debug\NDP ODEV 1.1.pdb
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP_ODEV_1._1.Form1.resources
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP_ODEV_1._1.Properties.Resources.resources
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csproj.GenerateResource.cache
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.exe
+C:\Users\Eren Değirmenci\source\repos\OOP PROJECT 1\NDP ODEV 1.1\obj\Debug\NDP ODEV 1.1.pdb
